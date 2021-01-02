@@ -1,1 +1,3 @@
-print('hello')
+s = 'te'
+S ='x'
+print (s+S)
